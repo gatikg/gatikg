@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gatikg" alt="gatikg" /></a> </p>
 
-- 🔭 I’m currently working on **Image Segmentation via GAN**
+- 🔭 I’m currently working on **Data Engineer Intern at Mactores Inc.**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **AWS Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gatikg](https://github.com/gatikg)
 
